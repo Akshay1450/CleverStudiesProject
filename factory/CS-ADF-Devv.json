@@ -1,0 +1,9 @@
+{
+	"name": "CS-ADF-Devv",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "572e5a1c-02be-4eac-925b-42b3106222a6",
+		"tenantId": "46869680-5b2c-4a33-aa50-e1a21587cb8e"
+	}
+}

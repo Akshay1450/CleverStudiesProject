@@ -1,0 +1,17 @@
+{
+	"name": "ls_gcp",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "GoogleCloudStorage",
+		"typeProperties": {
+			"serviceUrl": "https://storage.googleapis.com",
+			"accessKeyId": "GOOG1EPTJ2FDYOKATPD52R6I72OVOMXAFT63CDIZO4ICFC5IDBX734OV46QC4",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI4OTgxZjM2My1jOTY3LTRlZTItYWE1YS02MWU4OTgyYTA5NTAiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "CS-telecom",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
